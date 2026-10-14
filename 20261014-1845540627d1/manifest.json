@@ -1,128 +1,101 @@
 {
   "version": "20261014-1845540627d1",
-  "archive": "ContentAudio.tar",
-  "bytes": 497756160,
-  "sha256": "1845540627d158855c7fe971c03633982a2e667f30f3d546392377a3352d4707",
+  "archive": "ContentAudio.tar.gz",
+  "compression": "gzip",
+  "compressedBytes": 375067335,
+  "compressedSHA256": "6023b07281c3145b80574bfbfdd571e292e07d43333f4744e2e1093b2c9a6326",
+  "uncompressedBytes": 497756160,
+  "uncompressedSHA256": "1845540627d158855c7fe971c03633982a2e667f30f3d546392377a3352d4707",
   "chunks": [
     {
-      "name": "ContentAudio.tar00",
+      "name": "ContentAudio.tar.gz00",
       "bytes": 20971520,
-      "sha256": "ee2aa17dc616f72e0ee8dfb4e9fb18e2c8aa42d96c457a3eca2482a42f6f377c"
+      "sha256": "5c6c5be3ea3b0164df199edcca587b02940c391e60c4509dc9f92d62fc62f444"
     },
     {
-      "name": "ContentAudio.tar01",
+      "name": "ContentAudio.tar.gz01",
       "bytes": 20971520,
-      "sha256": "a5a468d79063e1295e40ffe82c0edabd7d9c6574653840986ed21eee264c8647"
+      "sha256": "d8acc3bd220ed594f9212af6ac85fa539d68c7707aaa2c5d50b90e8b8bd382a5"
     },
     {
-      "name": "ContentAudio.tar02",
+      "name": "ContentAudio.tar.gz02",
       "bytes": 20971520,
-      "sha256": "987294abacba8cd83abec4d64ccdfc034413622fe173a52831e62b1caaf851ac"
+      "sha256": "160557c79d9a2d26a2800aec27cb8967871d06b5f6c6baa6c64f1d9d91d96726"
     },
     {
-      "name": "ContentAudio.tar03",
+      "name": "ContentAudio.tar.gz03",
       "bytes": 20971520,
-      "sha256": "c3396a4521b27285654f0352b1a48e80a1272e794130a610657cfbeb7ad8d000"
+      "sha256": "6747c065400a1a13e1a4193cd9fc55b9f49dd683cad714fa59e586c9a4d0b3c6"
     },
     {
-      "name": "ContentAudio.tar04",
+      "name": "ContentAudio.tar.gz04",
       "bytes": 20971520,
-      "sha256": "a973e174ccb08582b89f02b08f9830feb2655fe70a4693bf93f22c6a076e2437"
+      "sha256": "65475ab83ed04fc30b86ed7c63e628af67d6f523072bac7bd3a1a03101880925"
     },
     {
-      "name": "ContentAudio.tar05",
+      "name": "ContentAudio.tar.gz05",
       "bytes": 20971520,
-      "sha256": "6a9975e41ef0060911c8ec13ab2fe4c14c8f2f3fff0c9b4c1e11f7163c31cb53"
+      "sha256": "978a1fc34556db279ab06b508402f2e224b2fff3978913dfc2908b6c1336edfa"
     },
     {
-      "name": "ContentAudio.tar06",
+      "name": "ContentAudio.tar.gz06",
       "bytes": 20971520,
-      "sha256": "43c2f82fbf83ec1347726554de098bbff3521f62cf16e1e11c635e27912afb13"
+      "sha256": "e77679b463edaa285563b76dbdc3434008e66bc240862b77e3fa246eba727f12"
     },
     {
-      "name": "ContentAudio.tar07",
+      "name": "ContentAudio.tar.gz07",
       "bytes": 20971520,
-      "sha256": "b4439b584b031036f905c07b02392d919a367bd5ff0320b9a0567cdc01e8bd49"
+      "sha256": "59ac874f8ee5d335d490090563bbdd250416da70748053f5e7fe04784eb5b0a6"
     },
     {
-      "name": "ContentAudio.tar08",
+      "name": "ContentAudio.tar.gz08",
       "bytes": 20971520,
-      "sha256": "e8bc18a98253b7907efb3f526d9d57ddafd203548faa2f5438c0c44147e16edd"
+      "sha256": "651d57891c7e3bb9d15d98263e00e2d247b62880cca508a2c96481b3a3f0be55"
     },
     {
-      "name": "ContentAudio.tar09",
+      "name": "ContentAudio.tar.gz09",
       "bytes": 20971520,
-      "sha256": "a76d1cf4d405e5c86c91ca48b35b069b8edfc01f826fe087daf3edbb7791b579"
+      "sha256": "5f1deb0f120bac3522fd3281d0af077a757f0b58402fca835495ac28301813cd"
     },
     {
-      "name": "ContentAudio.tar10",
+      "name": "ContentAudio.tar.gz10",
       "bytes": 20971520,
-      "sha256": "a3c9388756ebc6dec469bd3c937e1bc21717f5f5a8897307bb80783fa76bc89c"
+      "sha256": "1ffa8ea391e605c1c07e071787474a6340f45d563bbc2e7d4cedf32f08caca30"
     },
     {
-      "name": "ContentAudio.tar11",
+      "name": "ContentAudio.tar.gz11",
       "bytes": 20971520,
-      "sha256": "ef0c6ee46b073007d892f53811d4f7e4ca90c793eb3b7cd79ee5abd4b12da0e3"
+      "sha256": "0d9bdbd53ba8130e9b2f226d057f07390cf9bb5a22c9d408e0c7be9e8dee5a76"
     },
     {
-      "name": "ContentAudio.tar12",
+      "name": "ContentAudio.tar.gz12",
       "bytes": 20971520,
-      "sha256": "74dd7b96e2e510b6be391ba2feae7ab5febf6e8ba65c38a43f519d39803c6311"
+      "sha256": "df684e96c6778c0b1f90b0ac95d22cca33efed1f98ae085dafb5321c1b9e9cd3"
     },
     {
-      "name": "ContentAudio.tar13",
+      "name": "ContentAudio.tar.gz13",
       "bytes": 20971520,
-      "sha256": "18ed0b0cdf0f5b79f31fda888044dbacde93074efb17bd10950e383b43b4f936"
+      "sha256": "40616622afffd87cf78bdd0647666e14661cfcb93751ee064468c0c7decd8f84"
     },
     {
-      "name": "ContentAudio.tar14",
+      "name": "ContentAudio.tar.gz14",
       "bytes": 20971520,
-      "sha256": "247f2cd8956e79e51374aa47515d65a670eb49da7e335ecfb7b77bc683dd1263"
+      "sha256": "2897c1e71e2b908a3cccd4f7b4d48e2faaecf4141ace87641915a748a27649c7"
     },
     {
-      "name": "ContentAudio.tar15",
+      "name": "ContentAudio.tar.gz15",
       "bytes": 20971520,
-      "sha256": "95b1224e326f59ddfef0676236aeae356b10030052217c968487bf5de91be8de"
+      "sha256": "bba4ddcd2648744c13a07bcaa78064835dbe9bc12ef56615cb1480ea54d26aba"
     },
     {
-      "name": "ContentAudio.tar16",
+      "name": "ContentAudio.tar.gz16",
       "bytes": 20971520,
-      "sha256": "43cc85f3c53da3adb249a12eea2609988311b9c4dccb0d143ca4b648296e20f5"
+      "sha256": "888cac8173827d6f45f50b043ba78949431a90014237a8a8878a64343a8e824c"
     },
     {
-      "name": "ContentAudio.tar17",
-      "bytes": 20971520,
-      "sha256": "7311abb36f02e217c4d06bb8f5df42db304bf4eecb4cde316a4caf6f2994e150"
-    },
-    {
-      "name": "ContentAudio.tar18",
-      "bytes": 20971520,
-      "sha256": "93679f96abab199508e7f6430545d16a57229536cca609480039ba3fdf465d08"
-    },
-    {
-      "name": "ContentAudio.tar19",
-      "bytes": 20971520,
-      "sha256": "60e9d0066cd5cdb74b8842f5a31d3123c273a0717495b3c53ed3bf3680d90371"
-    },
-    {
-      "name": "ContentAudio.tar20",
-      "bytes": 20971520,
-      "sha256": "1668a468fcdcf9b6254b29fcfb30aa8c6441c0910d17b589308609841478cb66"
-    },
-    {
-      "name": "ContentAudio.tar21",
-      "bytes": 20971520,
-      "sha256": "43a518314f22cff84aceda87ce38f301a82c50006f0d787d803532ee82962295"
-    },
-    {
-      "name": "ContentAudio.tar22",
-      "bytes": 20971520,
-      "sha256": "800558486518133d7e7ab3f40db47527b2740b4c07ee7a5a97cdb3b9d93daf6b"
-    },
-    {
-      "name": "ContentAudio.tar23",
-      "bytes": 15411200,
-      "sha256": "84da5068f7872810baacf0e70d2c42836d0baf053d2669ce5c9eb0ea577ea97f"
+      "name": "ContentAudio.tar.gz17",
+      "bytes": 18551495,
+      "sha256": "5c02530de2a56a31957132768925624b0cd1c78579e3420e7d8669665ab3a7c8"
     }
   ]
 }
