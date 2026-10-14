@@ -1,0 +1,128 @@
+{
+  "version": "20261014-1845540627d1",
+  "archive": "ContentAudio.tar",
+  "bytes": 497756160,
+  "sha256": "1845540627d158855c7fe971c03633982a2e667f30f3d546392377a3352d4707",
+  "chunks": [
+    {
+      "name": "ContentAudio.tar00",
+      "bytes": 20971520,
+      "sha256": "ee2aa17dc616f72e0ee8dfb4e9fb18e2c8aa42d96c457a3eca2482a42f6f377c"
+    },
+    {
+      "name": "ContentAudio.tar01",
+      "bytes": 20971520,
+      "sha256": "a5a468d79063e1295e40ffe82c0edabd7d9c6574653840986ed21eee264c8647"
+    },
+    {
+      "name": "ContentAudio.tar02",
+      "bytes": 20971520,
+      "sha256": "987294abacba8cd83abec4d64ccdfc034413622fe173a52831e62b1caaf851ac"
+    },
+    {
+      "name": "ContentAudio.tar03",
+      "bytes": 20971520,
+      "sha256": "c3396a4521b27285654f0352b1a48e80a1272e794130a610657cfbeb7ad8d000"
+    },
+    {
+      "name": "ContentAudio.tar04",
+      "bytes": 20971520,
+      "sha256": "a973e174ccb08582b89f02b08f9830feb2655fe70a4693bf93f22c6a076e2437"
+    },
+    {
+      "name": "ContentAudio.tar05",
+      "bytes": 20971520,
+      "sha256": "6a9975e41ef0060911c8ec13ab2fe4c14c8f2f3fff0c9b4c1e11f7163c31cb53"
+    },
+    {
+      "name": "ContentAudio.tar06",
+      "bytes": 20971520,
+      "sha256": "43c2f82fbf83ec1347726554de098bbff3521f62cf16e1e11c635e27912afb13"
+    },
+    {
+      "name": "ContentAudio.tar07",
+      "bytes": 20971520,
+      "sha256": "b4439b584b031036f905c07b02392d919a367bd5ff0320b9a0567cdc01e8bd49"
+    },
+    {
+      "name": "ContentAudio.tar08",
+      "bytes": 20971520,
+      "sha256": "e8bc18a98253b7907efb3f526d9d57ddafd203548faa2f5438c0c44147e16edd"
+    },
+    {
+      "name": "ContentAudio.tar09",
+      "bytes": 20971520,
+      "sha256": "a76d1cf4d405e5c86c91ca48b35b069b8edfc01f826fe087daf3edbb7791b579"
+    },
+    {
+      "name": "ContentAudio.tar10",
+      "bytes": 20971520,
+      "sha256": "a3c9388756ebc6dec469bd3c937e1bc21717f5f5a8897307bb80783fa76bc89c"
+    },
+    {
+      "name": "ContentAudio.tar11",
+      "bytes": 20971520,
+      "sha256": "ef0c6ee46b073007d892f53811d4f7e4ca90c793eb3b7cd79ee5abd4b12da0e3"
+    },
+    {
+      "name": "ContentAudio.tar12",
+      "bytes": 20971520,
+      "sha256": "74dd7b96e2e510b6be391ba2feae7ab5febf6e8ba65c38a43f519d39803c6311"
+    },
+    {
+      "name": "ContentAudio.tar13",
+      "bytes": 20971520,
+      "sha256": "18ed0b0cdf0f5b79f31fda888044dbacde93074efb17bd10950e383b43b4f936"
+    },
+    {
+      "name": "ContentAudio.tar14",
+      "bytes": 20971520,
+      "sha256": "247f2cd8956e79e51374aa47515d65a670eb49da7e335ecfb7b77bc683dd1263"
+    },
+    {
+      "name": "ContentAudio.tar15",
+      "bytes": 20971520,
+      "sha256": "95b1224e326f59ddfef0676236aeae356b10030052217c968487bf5de91be8de"
+    },
+    {
+      "name": "ContentAudio.tar16",
+      "bytes": 20971520,
+      "sha256": "43cc85f3c53da3adb249a12eea2609988311b9c4dccb0d143ca4b648296e20f5"
+    },
+    {
+      "name": "ContentAudio.tar17",
+      "bytes": 20971520,
+      "sha256": "7311abb36f02e217c4d06bb8f5df42db304bf4eecb4cde316a4caf6f2994e150"
+    },
+    {
+      "name": "ContentAudio.tar18",
+      "bytes": 20971520,
+      "sha256": "93679f96abab199508e7f6430545d16a57229536cca609480039ba3fdf465d08"
+    },
+    {
+      "name": "ContentAudio.tar19",
+      "bytes": 20971520,
+      "sha256": "60e9d0066cd5cdb74b8842f5a31d3123c273a0717495b3c53ed3bf3680d90371"
+    },
+    {
+      "name": "ContentAudio.tar20",
+      "bytes": 20971520,
+      "sha256": "1668a468fcdcf9b6254b29fcfb30aa8c6441c0910d17b589308609841478cb66"
+    },
+    {
+      "name": "ContentAudio.tar21",
+      "bytes": 20971520,
+      "sha256": "43a518314f22cff84aceda87ce38f301a82c50006f0d787d803532ee82962295"
+    },
+    {
+      "name": "ContentAudio.tar22",
+      "bytes": 20971520,
+      "sha256": "800558486518133d7e7ab3f40db47527b2740b4c07ee7a5a97cdb3b9d93daf6b"
+    },
+    {
+      "name": "ContentAudio.tar23",
+      "bytes": 15411200,
+      "sha256": "84da5068f7872810baacf0e70d2c42836d0baf053d2669ce5c9eb0ea577ea97f"
+    }
+  ]
+}
